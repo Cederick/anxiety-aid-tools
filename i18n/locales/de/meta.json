@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "home": {
+      "title": "Open-Source-Toolkit bei inner Unruhe",
+      "description": "Von der Community erstellte Hilfsmittel zur Linderung von inner Unruhe. Diese beinhalten Atemtechniken, Erdungsübungen und begleitete Muskelentspannung und sind frei verfügbar."
+    },
+    "breathing": {
+      "title": "2-Minuten-Atemübung",
+      "description": "Eine geführte Atemübung mit dem 4:6-Atemschema. Aktiviert das parasympathische Nervensystem, um Angst und Stress auf natürliche Weise zu reduzieren."
+    },
+    "grounding": {
+      "title": "5-4-3-2-1 Erdungsübung",
+      "description": "Eine Erdungsübung, die deine 5 Sinne nutzt, um Angst und Panik zu beruhigen.Diese Technik wirkt nachweislich zur sofortigen Stresslinderung."
+    },
+    "guidedBreathing": {
+      "title": "Geführte Atemübungen",
+      "description": "Weitere geführte Atemübungen mit einfacher Anleitung. 5-10-minütige Sitzungen für tiefere Entspannung und Angstbewältigung."
+    },
+    "progressiveMuscleRelaxation": {
+      "title": "Progressive Muskelentspannung",
+      "description": "Eine geführte Muskelentspannungsübung. Löse körperliche Anspannung und Angst durch systematische Muskelentspannungstechniken."
+    },
+    "peacefulVisualization": {
+      "title": "Ruhige Vorstellungsreisen",
+      "description": "Geführte Vorstellungsübungen, die dir bei innerer Unruhe helfen. Begib dich in Gedanken an entspannende Orte, um Stress abzubauen und zur Ruhe zu kommen."
+    },
+    "thoughtLabeling": {
+      "title": "Gedanken sortieren",
+      "description": "Ein interaktives Werkzeug, um Gedanken zu erkennen und zu benennen die zu Anspannung führen. Dies hilft deine Gedanken einzuordnen, damit sie dich weniger belasten."
+    },
+    "stressReliefBubbles": {
+      "title": "Entspannungs-Blasen – Interaktive Übung",
+      "description": "Ein interaktives Spiel, bei dem du virtuelle Blasen platzen lassen kannst. Dies kann dir helfen Anspannung und Stress abzubauen."
+    },
+    "soundTherapy": {
+      "title": "Klänge zum Entspannen",
+      "description": "Spezielle Klänge und sogenannte Binaurale Beats zur tiefen Entspannung. Diese können helfen Stress und innere Unruhe abzubauen."
+    }
+  }
+}
