@@ -1,0 +1,92 @@
+{
+  "about": {
+    "title": "Innere Unruhe verstehen",
+    "whatHappens": {
+      "title": "Was passiert während innerer Unruhe",
+      "description": "Dein Körper aktiviert den \"fight-or-flight\" Modus, erhöht den Puls, die Atemfrequenz und schüttet Stresshormone aus wie Adrenalin. Dies kann auch in alltägliche Situationen ohne bestimmte Anlässe passieren und für unangebrachte Anspannung sorgen."
+    },
+    "howHelp": {
+      "title": "Wie diese Übungen helfen können",
+      "description": "These evidence-based Übungen activate your parasympathetic Nervensystem, which naturally counteracts the Stressreaktionen. Regular practice can reduce both the frequency and intensity of anxious feelings."
+    },
+    "tips": {
+      "title": "Empfehlungen für bessere Ergebnisse",
+      "items": [
+        "Suche dir einen ruhigen und bequemen Ort an dem du nicht gestört wirst",
+        "Fange mit kurzen Übungen an (2-5 Minuten), falls du sehr unruhig bist",
+        "Übe regelmäßig, auch ohne innere Unruhe, um diese Übungen zu verinnerlichen",
+        "Sei geduldig mit dir selbst - diese Übungen fallen dir mit der Zeit leichter"
+      ]
+    }
+  },
+  "resources": {
+    "title": "Weitere Unterstützung",
+    "professional": {
+      "title": "Wann sollte ich mir professionelle Hilfe suchen",
+      "description": "Wenn deine innere Unruhe dein Leben, deine Arbeit oder deine zwishcnemenschlichen Beziehungen stark beeinträchtigt, solltest du dir Unterstützung bei einem Therapeuten oder Psychologen suchen.",
+      "signs": [
+        "Häufige oder starke innere Unruhe",
+        "Körperliche Beschwerden bleiben bestehen",
+        "Du leidest immer wieder unter körperlichen Symptomen",
+        "Dein Schlaf oder dein Appetit hat sich stark verändert"
+      ]
+    },
+    "organizations": {
+      "title": "Hilfsorganisationen und Anlaufstellen",
+      "description": "Hier findest du wichtige Hilfsangebote und Anlaufstellen für Deutschland, Österreich und die Schweiz, die bei Stress und innerer Unruhe unterstützen:",
+      "list": [
+        {
+          "name": "Telefonseelsorge Deutschland",
+          "url": "https://www.telefonseelsorge.de/",
+        "description": "Kostenlose und anonyme Beratung rund um die Uhr via Telefon, Chat und E-Mail erreichbar."
+        },
+		{
+        "name": "Telefonseelsorge Österreich",
+        "url": "https://www.telefonseelsorge.at/",
+        "description": "Bietet ebenfalls kostenlose und anonyme Beratung rund um die Uhr via Telefon, Chat und E-Mail."
+        },
+		{
+        "name": "Die Dargebotene Hand (Schweiz)",
+        "url": "https://www.143.ch/",
+        "description": "Anonyme Beratung bei Sorgen und in Krisensituationen via Telefon, Chat und E-Mail, 24 Stunden am Tag."
+        },
+        {
+          "name": "Deutsche Depressionshilfe",
+          "url": "https://www.bptk.de/patient-innen/",
+          "description": "Eine führende Organisation, die umfassende Informationen zu psychischen Erkrankungen bietet. Sie hat auch ein Info-Telefon für Erste Hilfe."
+        },
+        {
+          "name": "Bundespsychotherapeutenkammer",
+          "url": "https://www.bptk.de/patient-innen/",
+          "description": "Die zentrale Organisation der Psychotherapeuten in Deutschland. Bietet Informationen und hilft bei der Suche nach Therapeuten."
+        },
+        {
+          "name": "Österreichischer Bundesverband für Psychotherapie",
+          "url": "https://www.psychotherapie.at",
+          "description": "Der größte Psychotherapie-Verband in Österreich. Bietet ein umfassendes Verzeichnis von Psychotherapeuten und viele Fachinformationen."
+        },
+        {
+          "name": "Föderation der Schweizer Psychologinnen und Psychologen (FSP)",
+          "url": "https://www.psychologie.ch",
+          "description": "Der Berufsverband der Psychologen in der Schweiz. Stellt Informationen über psychische Gesundheit bereit und bietet ein Therapeutenverzeichnis."
+        },
+        {
+          "name": "Pro Mente Sana (Schweiz)",
+          "url": "https://promentesana.ch/angebote",
+          "description": "Eine Stiftung, die sich für die mentale Gesundheit einsetzt. Sie informiert, berät und stärkt Menschen mit psychischen Erkrankungen."
+        }
+      ]
+    }
+  },
+
+  "footer": {
+    "title": "Anxiety Aid Tools",
+    "description": "Open-Source-Toolkit, dass dich dabei unterstützt Ruhe zu finden wenn du sie dringend brauchst.",
+    "disclaimer": "Diese Internetseite stellt Infomaterial bezüglich verschieder Formen von Innerer Unruhe zur Verfügung und ist kein Ersatz für profesionelle medizinische Hilfe, Diagnosen oder Behandlung/Therapie. Wende dich bei anhaltenden Angstzuständen, Panikattacken oder anderstweitig anhaltender inneren Unruhe immer an einen Facharzt.",
+    "contribute": {
+      "title": "Beitragen",
+      "github": "GitHub",
+      "discussions": "Diskussionen"
+    }
+  }
+}
